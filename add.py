@@ -8,4 +8,5 @@ def test_crypt():
 
 def add(*args):
     total = sum(args)
+    x = 1
     return total
